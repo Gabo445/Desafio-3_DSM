@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-41:/layout/item_city.xml",
+        "source": "com.example.myapplication.app-main-44:/layout/item_city.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-41:/layout/item_country.xml",
+        "source": "com.example.myapplication.app-main-44:/layout/item_country.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-41:/layout/activity_main.xml",
+        "source": "com.example.myapplication.app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-41:/layout/item_info_row.xml",
+        "source": "com.example.myapplication.app-main-44:/layout/item_info_row.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-41:/layout/item_region.xml",
+        "source": "com.example.myapplication.app-main-44:/layout/item_region.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-41:/layout/activity_country_detail.xml",
+        "source": "com.example.myapplication.app-main-44:/layout/activity_country_detail.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-41:/layout/activity_countries.xml",
+        "source": "com.example.myapplication.app-main-44:/layout/activity_countries.xml"
+    }
+]

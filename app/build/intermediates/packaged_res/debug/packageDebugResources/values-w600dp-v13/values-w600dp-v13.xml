@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="map_height">360dp</dimen>
+    <integer name="city_columns">2</integer>
+    <integer name="country_columns">2</integer>
+    <integer name="region_columns">3</integer>
+</resources>

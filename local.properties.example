@@ -1,0 +1,5 @@
+# Copia estas 3 líneas al final de tu archivo local.properties (el que ya existe, con sdk.dir)
+# local.properties está en .gitignore: NUNCA lo subas al repositorio.
+RESTCOUNTRIES_API_TOKEN=tu_token_de_restcountries
+GEONAMES_USERNAME=tu_usuario_de_geonames
+WEATHERAPI_KEY=tu_api_key_de_weatherapi

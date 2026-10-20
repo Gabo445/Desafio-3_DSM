@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.example.myapplication.app-debug-42:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.myapplication.app-main-44:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-debug-42:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.myapplication.app-main-44:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-debug-42:/layout_activity_main.xml.flat",
+        "source": "com.example.myapplication.app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-debug-42:/layout_item_city.xml.flat",
+        "source": "com.example.myapplication.app-main-44:/layout/item_city.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-debug-42:/layout_item_region.xml.flat",
+        "source": "com.example.myapplication.app-main-44:/layout/item_region.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-debug-42:/layout_item_country.xml.flat",
+        "source": "com.example.myapplication.app-main-44:/layout/item_country.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-debug-42:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.myapplication.app-main-44:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-debug-42:/layout_activity_countries.xml.flat",
+        "source": "com.example.myapplication.app-main-44:/layout/activity_countries.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-debug-42:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.myapplication.app-main-44:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-debug-42:/xml_backup_rules.xml.flat",
+        "source": "com.example.myapplication.app-main-44:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-debug-42:/layout_activity_country_detail.xml.flat",
+        "source": "com.example.myapplication.app-main-44:/layout/activity_country_detail.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-debug-42:/layout_item_info_row.xml.flat",
+        "source": "com.example.myapplication.app-main-44:/layout/item_info_row.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-debug-42:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.myapplication.app-main-44:/mipmap-anydpi/ic_launcher.xml"
+    }
+]

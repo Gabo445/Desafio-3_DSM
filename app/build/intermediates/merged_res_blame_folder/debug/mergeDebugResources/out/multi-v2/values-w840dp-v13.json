@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.myapplication.app-mergeDebugResources-40:/values-w840dp-v13/values-w840dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\Desafio3_DSM\\app\\src\\main\\res\\values-w840dp\\dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "42",
+                        "endOffsets": "93"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\Desafio3_DSM\\app\\src\\main\\res\\values-w840dp\\integers.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "150,102,55",
+                        "endColumns": "44,47,46",
+                        "endOffsets": "190,145,97"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "98,143,191",
+                        "endColumns": "44,47,46",
+                        "endOffsets": "138,186,233"
+                    }
+                }
+            ]
+        }
+    ]
+}

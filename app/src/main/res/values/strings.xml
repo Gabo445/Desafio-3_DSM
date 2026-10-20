@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Atlas Mundial</string>
+    <string name="select_region">Selecciona una región</string>
+
+    <string name="region_africa">África</string>
+    <string name="region_americas">Américas</string>
+    <string name="region_asia">Asia</string>
+    <string name="region_europe">Europa</string>
+    <string name="region_oceania">Oceanía</string>
+    <string name="region_antarctic">Antártida</string>
+
+    <string name="retry">Reintentar</string>
+    <string name="empty_countries">No se encontraron países para esta región.</string>
+    <string name="capital_fmt">Capital: %1$s</string>
+    <string name="capital_none">Sin capital registrada</string>
+    <string name="cd_flag">Bandera</string>
+    <string name="cd_weather_icon">Ícono del clima</string>
+
+    <string name="section_info">Información del país</string>
+    <string name="section_map">Mapa interactivo</string>
+    <string name="section_cities">Ciudades principales</string>
+    <string name="capital_badge">★ Capital</string>
+    <string name="population_fmt">Población: %1$s</string>
+
+    <string name="label_common_name">Nombre común</string>
+    <string name="label_official_name">Nombre oficial</string>
+    <string name="label_capitals">Capital(es)</string>
+    <string name="label_region">Región</string>
+    <string name="label_subregion">Subregión</string>
+    <string name="label_continents">Continentes</string>
+    <string name="label_population">Población</string>
+    <string name="label_area">Superficie</string>
+    <string name="label_codes">Códigos ISO</string>
+    <string name="label_currencies">Monedas</string>
+    <string name="label_languages">Idiomas</string>
+    <string name="label_coordinates">Coordenadas</string>
+    <string name="label_timezones">Zonas horarias</string>
+    <string name="label_calling_codes">Prefijo telefónico</string>
+    <string name="label_driving_side">Conducción</string>
+    <string name="label_tlds">Dominios</string>
+    <string name="area_fmt">%1$s km²</string>
+    <string name="codes_fmt">alpha-2: %1$s · alpha-3: %2$s</string>
+    <string name="driving_left">Por la izquierda</string>
+    <string name="driving_right">Por la derecha</string>
+
+    <string name="weather_loading">Cargando clima…</string>
+    <string name="weather_temp_fmt">%1$.1f °C / %2$.1f °F</string>
+    <string name="weather_wind_fmt">Viento: %1$.1f km/h (%2$.1f mph)</string>
+    <string name="weather_humidity_fmt">Humedad: %1$d%%</string>
+    <string name="weather_updated_fmt">Actualizado: %1$s</string>
+    <string name="weather_unavailable">Clima no disponible</string>
+    <string name="marker_weather_fmt">%1$.1f °C · %2$s</string>
+
+    <string name="service_rest_countries">REST Countries</string>
+    <string name="service_geonames">GeoNames</string>
+    <string name="service_weather">WeatherAPI</string>
+
+    <string name="error_no_connection">Sin conexión a internet. Revisa tu red e inténtalo de nuevo.</string>
+    <string name="error_timeout">El servidor tardó demasiado en responder. Inténtalo de nuevo.</string>
+    <string name="error_invalid_credentials">Credenciales inválidas o sin permisos para %1$s. Revisa tu archivo local.properties.</string>
+    <string name="error_geonames_not_enabled">La cuenta de GeoNames ("%1$s") no tiene activados los servicios web. Inicia sesión en geonames.org y haz clic en "Enable Free Web Services".</string>
+    <string name="error_missing_credentials">Falta la credencial de %1$s. Configúrala en local.properties y vuelve a compilar.</string>
+    <string name="error_rate_limited">Se alcanzó el límite de solicitudes de %1$s. Espera un momento e inténtalo de nuevo.</string>
+    <string name="error_no_cities">No se encontraron ciudades principales para este país.</string>
+    <string name="error_location_not_found">No se encontró la ubicación solicitada.</string>
+    <string name="error_country_not_found">No se encontró información de este país.</string>
+    <string name="error_bad_response">La respuesta del servidor no tiene el formato esperado.</string>
+    <string name="error_server">Error del servicio %1$s (%2$s). Inténtalo más tarde.</string>
+</resources>
